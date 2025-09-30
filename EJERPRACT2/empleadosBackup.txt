@@ -1,0 +1,4 @@
+12345678A;Antonio Lobato;M;5;3
+32000031R;Ada Lovelace;F;1;1
+32000032G;James Cosling;M;4;7
+87654321B;Carmen Morales;F;2;10

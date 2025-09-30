@@ -1,0 +1,4 @@
+James Cosling,4,7,32000032G,M
+Ada Lovelace,1,1,32000031R,F
+Antonio Lobato,5,3,12345678A,M
+Carmen Morales,2,10,87654321B,F
